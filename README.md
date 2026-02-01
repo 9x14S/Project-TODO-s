@@ -18,3 +18,5 @@
 [ ] - Research and plan "Project Rigor" (hehehe).
 
 [ ] - Research and plan "Project Minimal Computing" (hehehe).
+
+[ ] - Create a TinyELF.
