@@ -20,3 +20,8 @@
 [ ] - Research and plan "Project Minimal Computing" (hehehe).
 
 [ ] - Create a TinyELF.
+
+[ ] - Create a personal 42 profiler/instrumentation for project testing.
+    [ ] - Include allocation tracking and memory efficiency checker utils.
+
+[ ] - Learn how to make quick fuzzers for 42 project testing.
